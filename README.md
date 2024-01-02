@@ -7,6 +7,6 @@ This project is part of INT371 Experiential Learning Project I (1/2023) and INT3
 
 Database Code: [OASIP_Database](./RhythmRecall_db.sql)
 
-## Roadmap
+## Product Roadmap
 
 ![Roadmap](./RhythmRecall_roadmap.png)
