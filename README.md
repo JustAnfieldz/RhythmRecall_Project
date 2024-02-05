@@ -5,7 +5,7 @@ This project is part of INT371 Experiential Learning Project I (1/2023) and INT3
 
 ![ER Diagram](./RhythmRecall__ER_Diagram__Release1.png)
 
-Database Code: [OASIP_Database](./RhythmRecall_db.sql)
+Database Code: [RhythmRecall_Database](./RhythmRecall_db.sql)
 
 ## Product Roadmap
 
