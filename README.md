@@ -3,7 +3,7 @@ This project is part of INT371 Experiential Learning Project I (1/2023) and INT3
 
 ## RhythmRecall ER Diagram
 
-![ER Diagram](./RhythmRecall__ER_Diagram__Release1.png)
+![ER Diagram](./er_rhythmrecall.png)
 
 Database Code: [RhythmRecall_Database](./RhythmRecall_db.sql)
 
