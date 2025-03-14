@@ -1,5 +1,9 @@
 # RhythmRecall_Project
-This project is part of INT371 Experiential Learning Project I (1/2023) and INT372Experiential Learning Project II (2/2023) which is the one I am currently studying in thissemester. This project is different from the Integrated Project since Capstone Project willneed everyone to create their own project. Therefore, we have come up with a projectcalled “Rhythm Recall”. It is a web application that allows people to share their photos orvideos inside the concert. Furthermore, each media can be separated into each zone of theconcert. We created this project to make this as a platform of gathering images or videoswith specific concerts and specific zones. Which means, our concept is not just aimed atentertainment but also as a case study for someone who wants to know each venue ofevery zone to guide their decision for the next concert.
+This project is part of INT371 Experiential Learning Project I (1/2023) and INT372 Experiential Learning Project II (2/2023), with the latter currently being undertaken this semester. Unlike the Integrated Project, where teamwork is emphasized, the Capstone Project requires each student to develop an individual project.
+
+Our project, titled “Rhythm Recall,” is a web application designed to allow users to share photos and videos from concerts. Media content can be categorized by specific concert zones, creating a centralized platform for event-based media organization. This functionality not only enhances the concert experience but also serves as a valuable resource for concertgoers seeking insights into various venue zones. By exploring shared media, users can make informed decisions about seating and viewing preferences for future events.
+
+The primary goal of Rhythm Recall is to blend entertainment with practical utility, providing a space where concert memories are preserved and future event planning is made easier through community-driven content sharing.
 
 ## RhythmRecall ER Diagram
 
